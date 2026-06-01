@@ -157,6 +157,12 @@ ENV/
 env.bak/
 venv.bak/
 
+# Local runtime/cache directories
+.matplotlib/
+.jupyter/
+.local/
+.config/
+
 # Spyder project settings
 .spyderproject
 .spyproject
