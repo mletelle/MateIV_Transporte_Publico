@@ -1,0 +1,102 @@
+Trabajo Práctico Final - Cohorte 2024
+Trabajo Práctico Final: Ciencia de Datos
+En este Trabajo Práctico Final, los estudiantes aplicarán los conceptos vistos en clase a
+un conjunto de datos reales. Los temas cubiertos en la cursada incluyen análisis
+estadístico, probabilidad, probabilidad condicional, probabilidad total, modelo normal,
+binomial y Poisson.
+A continuación, se presentan siete ideas de proyectos. Estas ideas también permitirán
+a los estudiantes aplicar los conocimientos adquiridos en la materia y ganar
+experiencia práctica en el análisis de datos reales, que es esencial en el campo de la
+Ciencia de Datos.
+Como hemos visto en el video subido al Campus Bimodal, podemos utilizar librerías de
+Python o R para trabajar con grandes volúmenes de datos y realizar aproximaciones,
+observar tendencias u obtener probabilidades dentro de los datos socavados. Los
+alumnos pueden optar por utilizar algún software o realizar algún trabajo de
+programación con los temas seleccionados. Aquí les dejamos una lista con nuestra
+selección de algunas librerías recomendadas:
+● https://aprendeconalf.es/docencia/python/manual/numpy/
+● https://aprendeconalf.es/docencia/python/manual/pandas/
+● https://aprendeconalf.es/docencia/python/manual/matplotlib/
+Cada grupo de estudiantes puede elegir una de estas ideas para desarrollar su trabajo:
+1. Análisis de Datos de Encuestas
+Los estudiantes pueden analizar los resultados de una encuesta sobre un tema de
+interés (por ejemplo, hábitos de estudio, preferencias alimentarias, etc.).
+Aplicación de conceptos:
+- Análisis estadístico: Descripción de los datos mediante medidas de tendencia central
+y dispersión.
+- Probabilidad: Cálculo de probabilidades de eventos específicos.
+- Probabilidad condicional: Análisis de probabilidades condicionadas a ciertas
+características (por ejemplo, probabilidad de preferir cierto tipo de comida dado que
+se pertenece a un grupo etario).
+- Distribuciones: Ajuste y comparación de los datos con distribuciones normales,
+binomiales o Poisson. Es posible fabricar algún ejercicio para demostrar alguna
+distribución en particular
+2. Análisis de Series Temporales
+Los estudiantes pueden analizar datos temporales como el clima, precios de acciones,
+o tráfico web.
+Aplicación de conceptos:
+- Análisis estadístico: Resumen de datos por períodos (diario, semanal, mensual).
+- Probabilidad: Cálculo de probabilidades de eventos futuros.
+- Probabilidad condicional y total: Predicción de eventos futuros basados en datos
+pasados.
+- Modelos: Ajuste de modelos a los datos temporales (por ejemplo, modelo de Poisson
+para eventos de tráfico). Es posible fabricar algún ejercicio para demostrar alguna
+distribución en particular
+3. Análisis de Datos Deportivos
+Los estudiantes pueden analizar estadísticas de jugadores o equipos deportivos.
+Aplicación de conceptos:
+- Análisis estadístico: Cálculo de medias, medianas, desviaciones estándar de
+estadísticas de rendimiento.
+- Probabilidad: Cálculo de probabilidades de ganar un partido basado en estadísticas
+pasadas.
+- Probabilidad condicional: Probabilidades de rendimiento dado cierto nivel de
+entrenamiento o condición física.
+- Distribuciones: Ajuste de datos a distribuciones normales o binomiales (por ejemplo,
+número de goles por partido). Es posible fabricar algún ejercicio para demostrar alguna
+distribución en particular
+4. Estudio de Datos de Salud
+Análisis de datos de salud pública como tasas de enfermedad, mortalidad, etc.
+Aplicación de conceptos:
+- Análisis estadístico: Descripción de datos de salud por regiones, edades, etc.
+- Probabilidad: Cálculo de probabilidades de enfermedades en distintas poblaciones.
+- Probabilidad condicional: Probabilidad de desarrollar una enfermedad dado cierto
+factor de riesgo.
+- Distribuciones: Ajuste de tasas de incidencia a modelos de Poisson. Es posible fabricar
+algún ejercicio para demostrar alguna distribución en particular
+5. Análisis de Datos de Redes Sociales
+Análisis de datos de actividad en redes sociales como número de likes, shares,
+comentarios, etc.
+Aplicación de conceptos:
+- Análisis estadístico: Descripción de la actividad en redes sociales con medidas
+estadísticas.
+- Probabilidad: Cálculo de probabilidades de interacciones futuras.
+- Probabilidad condicional: Análisis de probabilidades condicionadas a la hora del día,
+tipo de contenido, etc.
+- Distribuciones: Ajuste de datos de interacciones a modelos binomiales o de Poisson.
+Es posible fabricar algún ejercicio para demostrar alguna distribución en particular
+6. Análisis de Datos de Transporte Público
+Los estudiantes pueden analizar datos de uso del transporte público en una ciudad
+(por ejemplo, número de pasajeros por hora, puntualidad de los servicios, etc.).
+Aplicación de conceptos:
+- Análisis estadístico: Resumen de datos de uso del transporte por hora del día, día de
+la semana, etc.
+- Probabilidad: Cálculo de probabilidades de retrasos o de que un vehículo esté lleno.
+- Probabilidad condicional: Probabilidad de retrasos dado un tipo de servicio específico
+o una hora del día.
+- Distribuciones: Ajuste de datos de número de pasajeros a distribuciones binomiales o
+de Poisson (por ejemplo, pasajeros por hora). Es posible fabricar algún ejercicio para
+demostrar alguna distribución en particular
+7. Análisis de Datos de Ventas en Comercio Electrónico
+Los estudiantes pueden analizar datos de ventas en una plataforma de comercio
+electrónico (por ejemplo, número de ventas, ingresos, productos más vendidos, etc.).
+Aplicación de conceptos:
+- Análisis estadístico: Resumen de datos de ventas por categoría de producto, día de la
+semana, etc.
+- Probabilidad: Cálculo de probabilidades de venta de productos específicos.
+- Probabilidad condicional: Probabilidad de ventas adicionales dado que un cliente ha
+comprado un producto específico (análisis de carrito de compras).
+- Distribuciones: Ajuste de datos de ventas a distribuciones normales (ingresos diarios)
+o de Poisson (número de ventas por hora). Es posible fabricar algún ejercicio para
+demostrar alguna distribución en particular
+Nota: es posible elegir un tema que no esté dentro de la lista de proyectos sugeridos. Coordinar con el
+docente.
